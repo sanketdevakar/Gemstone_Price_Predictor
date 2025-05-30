@@ -62,5 +62,5 @@ Link : [EDA Notebook](https://github.com/sanketdevakar/Gemstone_Price_Predictor/
 
 # Model Training Approach Notebook
 
-Link : [Model Training Notebook](notebook\2_Model_Training_Gemstones.ipynb)
+Link : [Model Training Notebook](https://github.com/sanketdevakar/Gemstone_Price_Predictor/blob/main/notebook/2_Model_Training_Gemstones.ipynb)
 
