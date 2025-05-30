@@ -58,7 +58,7 @@ Dataset Source Link :
 
 # Exploratory Data Analysis Notebook
 
-Link : [EDA Notebook](notebook\1_EDA_Gemstone_price_Predictor.ipynb)
+Link : [EDA Notebook](https://github.com/sanketdevakar/Gemstone_Price_Predictor/blob/main/notebook/1_EDA_Gemstone_price_Predictor.ipynb)
 
 # Model Training Approach Notebook
 
